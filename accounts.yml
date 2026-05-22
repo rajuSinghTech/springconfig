@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to the Accounts Microservice Local APIs"
   contactDetails:
-    name: "Rajeev - Manager"
+    name: "Rajeev - Team Leader"
     email: "{cipher}8e44cf56f8a25555e7d3ccf12f962f92334f39db4a48572864de3c175c9cc3e93bab77d000654688e169e88265859361"
   onCallSupport:
     - +91-9560309951
