@@ -1,0 +1,11 @@
+build:
+  version: "4.2.2.2"
+
+cards:
+  message: "Welcome to Cards related prod APIs "
+  contactDetails:
+    name: "Rajeev - Developer"
+    email: "rajusigh48658@gmail.com"
+  onCallSupport:
+    - +91-9560309951
+    - +91-7800183401
