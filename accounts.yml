@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to the Accounts Microservice Local API"
   contactDetails:
     name: "Rajeev - Team Leader"
-    email: "{cipher}8e44cf56f8a25555e7d3ccf12f962f92334f39db4a48572864de3c175c9cc3e93bab77d000654688e169e88265859361"
+    email: "{cipher}1ac3eb9aac95bd0425a401393856a48efc13cf72524b7e83f35aa8d981c4b908c1994947c92dbe949c3a210bcb190420"
   onCallSupport:
     - +91-9560309951
     - +91-7800183401
