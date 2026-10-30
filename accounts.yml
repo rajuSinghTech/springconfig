@@ -2,7 +2,7 @@ build:
   version: "4.2.1.0"
 
 accounts:
-  message: "Welcome to the Accounts Microservice Local API"
+  message: "Welcome to the Accounts Microservice Local API For All"
   contactDetails:
     name: "Rajeev - Team Leader"
     email: "{cipher}1ac3eb9aac95bd0425a401393856a48efc13cf72524b7e83f35aa8d981c4b908c1994947c92dbe949c3a210bcb190420"
